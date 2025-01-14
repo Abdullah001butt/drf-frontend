@@ -26,7 +26,7 @@ A feature-rich blogging platform built with React, React Router, and React Query
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/react-blog-platform.git
+git clone https://github.com/Abdullah001butt/drf-frontend.git
 
 2. Install dependencies:
 ```bash
